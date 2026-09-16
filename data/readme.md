@@ -16,5 +16,8 @@ The dataset contains emotional speech recordings from **24 actors** across **8 e
 | 08 | Surprised |
 
 The dataset is not included in this repository because of its large size.
+## Dataset Source
 
-For running the project locally, place the RAVDESS dataset inside the `data/RAVDESS/` directory.
+The RAVDESS dataset used in this project was obtained from Kaggle:
+
+https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
