@@ -12,9 +12,9 @@ The project uses **CNNs for audio features**, **OpenAI Whisper for speech-to-tex
 
 This project focuses on recognizing emotions from speech by utilizing two complementary modalities:
 
-* 🎵 **Audio:** Mel Spectrograms extracted from speech recordings and classified using a CNN.
-* 📝 **Text:** Speech transcripts generated using Whisper and processed using an LSTM network.
-* 🔗 **Multimodal Fusion:** Predictions from the audio and text models are combined using a late-fusion approach.
+*  **Audio:** Mel Spectrograms extracted from speech recordings and classified using a CNN.
+*  **Text:** Speech transcripts generated using Whisper and processed using an LSTM network.
+* **Multimodal Fusion:** Predictions from the audio and text models are combined using a late-fusion approach.
 
 The system is trained and evaluated using the **RAVDESS Emotional Speech Audio Dataset**.
 
