@@ -1,5 +1,3 @@
-# multimodal-emotion-recognition
-Multimodal Emotion Recognition using Audio CNN, Whisper Transcripts, and Text RNN with Late Fusion techniques.
 # Multimodal Emotion Recognition
 
 A deep learning-based **Multimodal Emotion Recognition** system that combines **audio and textual information** from speech to classify human emotions.
